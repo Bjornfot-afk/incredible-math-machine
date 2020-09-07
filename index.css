@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    height: 100vh;
+    display: grid;
+    place-items: center;
+    font-family: 'Comic Sans MS', 'Comic Sans', cursive;
+    background-color: hsl(219, 48%, 68%);
+    color: hsl(220, 92%, 9%);
+}
+
+strong {
+    text-decoration: underline;
+}
+
+#main {
+    text-align: center;
+}
+
+#math {
+    font-size: 10vh;
+}
